@@ -22,3 +22,13 @@ public class Assessment {
         }
     }
 }
+
+//Output:
+/*
+abc
+acb
+bac
+bca
+cab
+cba
+*/
